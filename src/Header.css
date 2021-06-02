@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    justify-content: flex-end;
+    position: static;
+    height: 5.0rem;
+    align-items: center;
+    background-color: transparent;
+    top: 0;
+    border-bottom: 1px solid lightgray;
+}
+
+.app_logo {
+    width: 100%;
+    max-width: 12rem;
+    height: 2.7rem;
+    display: block;
+    cursor: pointer;
+    margin: 5px 0px 0 20px;
+    margin-top: 18px;
+}
+
+.header_bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

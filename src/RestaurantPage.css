@@ -1,0 +1,20 @@
+.restaurant-title {
+    font-size: 2rem;
+    font-weight: 300;
+    color: rgb(28, 28, 28);
+    display: flex;
+    justify-content: space-between;
+}
+
+.restaurant-rating {
+    font-size: 2rem;
+}
+
+.restaurant-type {
+    display: flex;
+}
+
+.restaurant-area {
+    padding-top: 20px;
+    color: rgb(103, 99, 99);
+}
